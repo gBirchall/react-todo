@@ -1,0 +1,3 @@
+.item.complete label {
+    text-decoration: line-through;
+}
